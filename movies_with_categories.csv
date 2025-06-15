@@ -1,0 +1,11 @@
+title,rating,genre,year,rating_category
+The Shawshank Redemption,9.3,Drama,1994,High Rated
+The Godfather,9.2,Crime,1972,High Rated
+The Dark Knight,9.0,Action,2008,High Rated
+Pulp Fiction,8.9,Crime,1994,High Rated
+Inception,8.8,Action,2010,High Rated
+The Matrix,8.7,Action,1999,High Rated
+Titanic,7.8,Romance,1997,Lower Rated
+The Notebook,7.8,Romance,2004,Lower Rated
+The Avengers,8.0,Action,2012,Lower Rated
+La La Land,8.0,Romance,2016,Lower Rated
